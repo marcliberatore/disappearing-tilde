@@ -1,0 +1,7 @@
+baseurl = "http://people.cs.umass.edu/~liberato/disappearing-tilde/"
+languageCode = "en"
+title = "Disappearing Tilde"
+theme = "hemingway"
+copyright = "&copy; 2016 Marc Liberatore"
+disqusShortname = ""
+googleAnalytics = ""
