@@ -6,7 +6,7 @@ The error: When creating a site with a `baseurl` containing a tilde (`~`), the t
 
 ## My setup
 
-- Hugo v0.18, downloaded from <https://github.com/spf13/hugo/releases> (output from `hugo version`: `Hugo Static Site Generator v0.18 BuildDate: 2016-12-19T14:43:00-05:00`)
+- Hugo v0.18.1, downloaded from <https://github.com/spf13/hugo/releases> (output from `hugo version`: `Hugo Static Site Generator v0.18.1 BuildDate: 2016-12-30T10:03:32-05:00`)
 - OS X 10.10.5
 
 ## Steps to reproduce
